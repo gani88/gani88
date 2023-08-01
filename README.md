@@ -3,7 +3,7 @@
 <!-- Bio -->
 ### Hi there! 👋 I'm Zarek Gema, a passionate data scientist and machine learning enthusiast. 
 ### Bangkit Academy 2022 Graduate 🎓
-### Currently learning Game Maker Studios 🎮
+### Currently learning Unity 🎮
 
 <!-- GitHub Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gani88&show_icons=true&theme=radical)
