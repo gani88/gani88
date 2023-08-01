@@ -22,6 +22,6 @@ am always eager to learn and grow in a collaborative environment.
 #### Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-red?style=flat-square&logo=scikit-learn&logoColor=white)
+[![Pandas](https://img.shields.io/badge/-pandas-blue?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
 
