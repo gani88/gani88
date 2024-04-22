@@ -6,4 +6,4 @@ As a recent Computer Science graduate with a passion for cutting-edge technologi
 </p>
 
 <!-- Learning in Progress -->
-### Learning in Progress: Backend Development with Java, PostgreSQL, and Spring Boot
+##### Learning in Progress: Backend Development with Java, PostgreSQL, and Spring Boot
