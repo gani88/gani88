@@ -6,12 +6,12 @@
 ##### Learning in Progress: Backend Development with Java, PostgreSQL, and Spring Boot
 
 
-<h1 align="center">Hi 👋, I'm Zarek Gema Galgani</h1>
+<h2 align="center">I'm Zarek Gema Galgani</h2>
 <h3 align="center">Machine Learning Engineer / (In-Progress) Back End Developer</h3>
 
 - 🌱 I’m currently learning **Spring Boot Framework and JPA**
 
-- 💬 Ask me about **machine learning and java**
+- 💬 Ask me about **Machine Learning and Backend Development**
 
 - 📫 How to reach me **zarekgema8@gmail.com**
 
