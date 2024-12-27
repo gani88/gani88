@@ -1,9 +1,5 @@
 <!-- Bio -->
-### Machine Learning Enthusiast | Fullstack Developer
-
-
-<!-- Learning in Progress -->
-##### Learning in Progress: React JS, JavaScript, and FrontEnd component
+### Machine Learning | Software Developer
 
 
 <p style="text-align: justify;">
